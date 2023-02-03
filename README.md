@@ -1,4 +1,4 @@
-### Hi there 👋 i am Haseeb a coder and developer with expertise in tech and Gaming indsuctry. 
+### Hi there 👋 i am Haseeb a coder and developer with expertise in _tech_ and _Gaming industry_. 
 
 **haseeb-heaven/haseeb-heaven** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
