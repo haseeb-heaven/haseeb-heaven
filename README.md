@@ -9,5 +9,7 @@
 - 📫 How to reach me: [Twitter](https://twitter.com/haseeb_heaven)
 - 💵 Support me at [Buymeacoffee](https://www.buymeacoffee.com/haseebheaven)
 - 💻  Checkout my Blogs : [Google-Blogs](https://haseeb-heaven.blogspot.com/)
+- 💻 Follow me on Stack Exchange : [Stackoverflow](https://stackoverflow.com/users/6219626/haseeb-mir)
+- 📫 Follow me on YouTube : [YouTube](https://www.youtube.com/@HaseebMir91/videos)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I have worked in AAA Gaming industry and have created Secruity tools to enhance gaming experince.
