@@ -43,11 +43,16 @@ I'm a coder and developer who loves to explore new technologies and create aweso
 </a>
 
 ## 📫 How to reach me
-- 📫 How to reach me: [Twitter](https://twitter.com/haseeb_heaven)
-- 💵 Support me at [Buymeacoffee](https://www.buymeacoffee.com/haseebheaven)
-- 💻  Checkout my Blogs : [Google-Blogs](https://haseeb-heaven.blogspot.com/)
-- 💻 Follow me on Stack Exchange : [Stackoverflow](https://stackoverflow.com/users/6219626/haseeb-mir)
-- 📫 Follow me on YouTube : [YouTube](https://www.youtube.com/@HaseebHeaven/videos)
-- Checkout my website : [Website](https://haseebmahrhm.editorx.io/haseeb-heaven)
-   
+
+ - [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/haseeb_heaven)
+
+- [![BuyMeCoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/haseebheaven)
+
+- [![Blogger](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://haseeb-heaven.blogspot.com/)
+
+- [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/6219626/haseeb-mir)
+
+- [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@HaseebHeaven/videos) 
+
+- [![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://haseebmahrhm.editorx.io/haseeb-heaven)
 
