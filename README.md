@@ -29,17 +29,17 @@ I'm a coder and developer who loves to explore new technologies and create aweso
 | ------------- | ------------- |
 
 #### Top Repositories
-<a href="https://github.com/haseeb-heaven/github-readme-stats">
+<a href="https://github.com/haseeb-heaven/LangChain-Coder">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=haseeb-heaven&repo=LangChain-Coder&theme=buefy" />
 </a>
-<a href="https://github.com/anuraghazra/anuraghazra.github.io">
+<a href="https://github.com/haseeb-heaven/AutoBard-Coder">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=haseeb-heaven&repo=AutoBard-Coder&theme=buefy" />
 </a>
-<a href="https://github.com/anuraghazra/anuraghazra.github.io">
+<a href="https://github.com/haseeb-heaven/CodeRunner-Plugin">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=haseeb-heaven&repo=CodeRunner-Plugin&theme=buefy" />
 </a>
-<a href="https://github.com/anuraghazra/anuraghazra.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=haseeb-heaven&repo=AI-Assets-Generator&theme=buefy" />
+<a href="https://github.com/haseeb-heaven/open-code-interpreter">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=haseeb-heaven&repo=open-code-interpreter&theme=buefy" />
 </a>
 
 ## 📫 How to reach me
