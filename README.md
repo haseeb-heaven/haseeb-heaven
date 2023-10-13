@@ -25,7 +25,7 @@ I'm a coder and developer who loves to explore new technologies and create aweso
   </div>
 
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=haseeb-heaven&show_icons=true&include_all_commits=false&theme=buefy&hide_border=true" alt="Heaven's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haseeb-heaven&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=haseeb-heaven&show_icons=true&include_all_commits=false&theme=buefy&hide_border=true" alt="Heaven's github stats" /></a> | <a href="https://github.com/haseeb-heaven?tab=repositories"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haseeb-heaven&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 #### Top Repositories
