@@ -3,7 +3,6 @@
 I'm a coder and developer who loves to explore new technologies and create awesome things with them. I have expertise in tech and gaming industry, and I work on OpenAI tools, generative AI, API & SDK integration, and game development projects.
 
 ## 👨‍💻 What I do
-- I have a degree in **Computer Science**.
 - I’m currently learning **AI tech, deep learning,** and **AI models**.
 - I’m looking to collaborate on cool and **open-source projects**.
 - I write about tech related topics on my **blogs** and **YouTube** channel.
