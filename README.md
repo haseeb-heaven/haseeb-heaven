@@ -28,7 +28,7 @@ I'm a developer focused on building **Agentic AI systems** — autonomous softwa
         <img src="https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5" alt="HTML">
     </div>
     <div class="chart">
-        <img src="https://chart.googleapis.com/chart?chs=600x400&cht=p&chco=3366FF,FF9900,800080,DC3912,FFFF00&chd=t:73.23,12.36,8.48,5.18,0.49,0.26&chl=C%2B%2B|C|Python|Assembly|JavaScript|HTML&chtt=Languages&chts=000000,20" alt="Pie Chart">
+       <img src="https://ghstats.dev/api/langs?username=haseeb-heaven&border_radius=9.5" alt="Top Languages" />
     </div>
 </div>
 
@@ -40,22 +40,14 @@ I'm a developer focused on building **Agentic AI systems** — autonomous softwa
 - Tool-calling architectures
 - Autonomous AI agents
 
-## 🧪 Featured Projects
-<a href="https://github.com/haseeb-heaven/langchain-coder">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=haseeb-heaven&repo=langchain-coder&theme=buefy" />
-</a>
-<a href="https://github.com/haseeb-heaven/code-interpreter">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=haseeb-heaven&repo=code-interpreter&theme=buefy" />
-</a>
-<a href="https://github.com/haseeb-heaven/coderunner-chatgpt">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=haseeb-heaven&repo=coderunner-chatgpt&theme=buefy" />
-</a>
-<a href="https://github.com/haseeb-heaven/gemini-interpreter">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=haseeb-heaven&repo=gemini-interpreter&theme=buefy" />
-</a>
+## Top Repos
+![code-interpreter](https://img.shields.io/github/stars/haseeb-heaven/code-interpreter?style=for-the-badge&logo=github&label=code-interpreter)
+![langchain-coder](https://img.shields.io/github/stars/haseeb-heaven/langchain-coder?style=for-the-badge&logo=github&label=langchain-coder)
+![gemini-interpreter](https://img.shields.io/github/stars/haseeb-heaven/gemini-interpreter?style=for-the-badge&logo=github&label=gemini-interpreter)
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=haseeb-heaven&show_icons=true&include_all_commits=false&theme=buefy&hide_border=true" alt="Heaven's github stats" /></a> | <a href="https://github.com/haseeb-heaven?tab=repositories"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haseeb-heaven&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
+
+## 🧪 GitHub Stats
+<img src="https://ghstats.dev/api/card?username=haseeb-heaven&border_radius=26.5" alt="GitHub Stats Card" />
 
 ## 🧠 Agent Capabilities
 - 🧭 Task planning & decomposition  
