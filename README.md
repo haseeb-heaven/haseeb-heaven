@@ -1,14 +1,14 @@
-<![CDATA[<div align="center">
+<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Haseeb%20Heaven&fontSize=60&fontColor=58a6ff&fontAlignY=38&desc=AI%20Engineer%20%7C%20Backend%20Developer%20%7C%20Open-Source%20Builder&descSize=18&descColor=8b949e&animation=fadeIn" width="100%" />
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+Autonomous+AI+Systems+%F0%9F%A4%96;Backend+Engineer+%7C+5%2B+Years+Experience;Game+Engine+Researcher+%F0%9F%8E%AE;Open-Source+Contributor+%7C+147%2B+Followers;Code+is+Art+%E2%80%94+Ship+What+Matters.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+Autonomous+AI+Systems+🤖;Backend+Engineer+%7C+5%2B+Years+Experience;Game+Engine+Researcher+🎮;Open-Source+Contributor+%7C+147%2B+Followers;Code+is+Art+—+Ship+What+Matters.)](https://git.io/typing-svg)
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge&logoColor=white)](https://haseeb-mir.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://haseeb-mir.netlify.app/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/HaseebMir91)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@HaseebHeaven/videos)
 [![Stack Overflow](https://img.shields.io/badge/StackOverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/6219626/haseeb-mir)
@@ -73,7 +73,7 @@ I'm **Haseeb**, a backend engineer and AI systems builder with **5+ years of exp
 
 ---
 
-## 🚀 Agent Architecture Expertise
+## 🚀 Agent Architecture
 
 ```
 ┌─────────────────────────────────────────────────────────┐
@@ -81,7 +81,7 @@ I'm **Haseeb**, a backend engineer and AI systems builder with **5+ years of exp
 ├──────────────┬──────────────────────┬───────────────────┤
 │  PERCEPTION  │      REASONING       │      ACTION       │
 │  LLM Input   │  ReAct / ToT Loops   │  Tool Execution   │
-│  RAG Pipelines│ Planning & Decompose│  API Calls / Code │
+│  RAG Pipeline│  Planning & Decompose│  API Calls / Code │
 │  Vector DBs  │  Memory Retrieval    │  Multi-Agent Coord│
 └──────────────┴──────────────────────┴───────────────────┘
 ```
@@ -96,11 +96,11 @@ I'm **Haseeb**, a backend engineer and AI systems builder with **5+ years of exp
 
 ## 🎮 Game Engine Research
 
-I reverse engineer the **IGI 1 & 2 game engines** — parsing proprietary binary formats, extracting 3D assets, and building tools for the modding community.
+Reverse engineering the **IGI 1 & 2 game engines** — parsing proprietary binary formats, extracting 3D assets, and building modding tools.
 
 | Format | Description | Status |
 |--------|-------------|--------|
-| `.olm` | Object/Level Mesh format | ✅ Fully Parsed |
+| `.olm` | Object/Level Mesh | ✅ Fully Parsed |
 | `.iff` | Interchange File Format | ✅ Documented |
 | `.mef` | Material & Entity Format | 🔄 In Progress |
 | `.spr` | Sprite/Texture Format | ✅ Extracted |
@@ -154,4 +154,3 @@ I reverse engineer the **IGI 1 & 2 game engines** — parsing proprietary binary
 *"Build systems that don't just respond — they think, plan, and act."*
 
 </div>
-]]>
