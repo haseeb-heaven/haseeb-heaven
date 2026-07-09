@@ -94,16 +94,17 @@ I'm **Haseeb**, a backend engineer and AI systems builder with **5+ years of exp
 
 ---
 
-## 🎮 Game Engine Research
+## 🎮 IGI 3D Level Editor
 
-Reverse engineering the **IGI 1 & 2 game engines** — parsing proprietary binary formats, extracting 3D assets, and building modding tools.
+> A fully browser-based **3D Advanced Level Editor** for the IGI game engine — built from scratch by reverse engineering proprietary binary formats. Supports real-time scene manipulation, asset placement, and level export directly in the browser.
 
-| Format | Description | Status |
-|--------|-------------|--------|
-| `.olm` | Object/Level Mesh | ✅ Fully Parsed |
-| `.iff` | Interchange File Format | ✅ Documented |
-| `.mef` | Material & Entity Format | 🔄 In Progress |
-| `.spr` | Sprite/Texture Format | ✅ Extracted |
+<div align="center">
+
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-project--igi--editor.vercel.app-58a6ff?style=for-the-badge)](https://project-igi-editor.vercel.app/)
+[![GitHub Repo](https://img.shields.io/badge/GitHub-heaven--hm%2Fproject--igi--editor-24292e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/heaven-hm/project-igi-editor)
+[![Watch Demo](https://img.shields.io/badge/▶_Watch_Demo-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/w4k5TRIy9eM?si=3TKGPIo4W6W2n2qR)
+
+</div>
 
 ---
 
