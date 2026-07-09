@@ -1,14 +1,18 @@
+<!--
+==========================================================
+  BACKUP OF ORIGINAL README — DO NOT DELETE
+==========================================================
 # Hey, I'm Haseeb Heaven 👋
 
 I'm a developer focused on building **Agentic AI systems** — autonomous software that can reason, plan, and execute tasks using LLMs, tools, and APIs.
 
 ## 👨‍💻 What I do
 - 🤖 I build **AI agents** (multi-agent systems, autonomous workflows)
-- 🧠 I’m currently learning **deep learning, LLMs, and advanced AI architectures**
+- 🧠 I'm currently learning **deep learning, LLMs, and advanced AI architectures**
 - 🔗 I work with **OpenAI tools, APIs, and SDK integrations**
 - 🎮 I apply AI in **gaming systems & security tools**
 - ✍️ I write about tech on my **blogs** and **YouTube channel**
-- 🤝 I’m open to collaborating on **agentic AI & open-source projects**
+- 🤝 I'm open to collaborating on **agentic AI & open-source projects**
 
 ## 🧠 Current Focus
 - 🧭 Agent planning & reasoning (ReAct, Tree-of-Thought)
@@ -45,7 +49,6 @@ I'm a developer focused on building **Agentic AI systems** — autonomous softwa
 ![langchain-coder](https://img.shields.io/github/stars/haseeb-heaven/langchain-coder?style=for-the-badge&logo=github&label=langchain-coder)
 ![gemini-interpreter](https://img.shields.io/github/stars/haseeb-heaven/gemini-interpreter?style=for-the-badge&logo=github&label=gemini-interpreter)
 
-
 ## 🧪 GitHub Stats
 <img src="https://ghstats.dev/api/card?username=haseeb-heaven&border_radius=26.5" alt="GitHub Stats Card" />
 
@@ -57,14 +60,153 @@ I'm a developer focused on building **Agentic AI systems** — autonomous softwa
 - 🤝 Multi-agent systems  
 
 ## 📫 How to reach me
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/HaseebMir91) 
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/HaseebMir91)
 [![BuyMeCoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/haseebheaven)
 [![KoFi](https://img.shields.io/badge/KoFi-ffdd00?style=for-the-badge&logo=Ko-fi&logoColor=orange)](https://ko-fi.com/heavenhm)
-[![Blogger](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://haseeb-heaven.blogspot.com/) 
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/6219626/haseeb-mir) 
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@HaseebHeaven/videos) 
+[![Blogger](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://haseeb-heaven.blogspot.com/)
+[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/6219626/haseeb-mir)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@HaseebHeaven/videos)
 [![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://haseeb-mir.vercel.app)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://haseeb-mir.netlify.app/)
 
 ## ⚡ Vision
-Building systems that don’t just respond — but **think, plan, and act autonomously**.
+Building systems that don't just respond — but **think, plan, and act autonomously**.
+==========================================================
+  END OF BACKUP
+==========================================================
+-->
+
+```
+ ██╗  ██╗ █████╗ ███████╗███████╗███████╗██████╗
+ ██║  ██║██╔══██╗██╔════╝██╔════╝██╔════╝██╔══██╗
+ ███████║███████║███████╗█████╗  █████╗  ██████╔╝
+ ██╔══██║██╔══██║╚════██║██╔══╝  ██╔══╝  ██╔══██╗
+ ██║  ██║██║  ██║███████║███████╗███████╗██████╔╝
+ ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚══════╝╚══════╝╚═════╝
+
+ ██╗  ██╗███████╗ █████╗ ██╗   ██╗███████╗███╗   ██╗
+ ██║  ██║██╔════╝██╔══██╗██║   ██║██╔════╝████╗  ██║
+ ███████║█████╗  ███████║██║   ██║█████╗  ██╔██╗ ██║
+ ██╔══██║██╔══╝  ██╔══██║╚██╗ ██╔╝██╔══╝  ██║╚██╗██║
+ ██║  ██║███████╗██║  ██║ ╚████╔╝ ███████╗██║ ╚████║
+ ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝  ╚═══╝  ╚══════╝╚═╝  ╚═══╝
+```
+
+<div align="center">
+
+```
+        .---.
+       /     \
+      | () () |        ██╗  ██╗ █████╗ ███████╗███████╗███████╗██████╗
+       \  ^  /         ██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝██╔══██╗
+        |||||          ███████║███████║███████╗█████╗  █████╗  ██████╔╝
+        |||||          ██╔══██║██╔══██║╚════██║██╔══╝  ██╔══╝  ██╔══██╗
+                       ██║  ██║██║  ██║███████║███████╗███████╗██████╔╝
+  ╔══════════════╗     ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚══════╝╚══════╝╚═════╝
+  ║ haseeb-heaven║
+  ╚══════════════╝     OS     : Windows 11 / Ubuntu 22 / Kali
+                       Age    : 10+ yrs in software development
+                       Shell  : Python  |  C++  |  C#  |  JS
+```
+
+</div>
+
+---
+
+```
+╔═══════════════════════════════════════════════════════════════════╗
+║                        SYSTEM INFO                               ║
+╠═══════════════════════════════════════════════════════════════════╣
+║  Name    : Haseeb Heaven (haseeb-heaven)                         ║
+║  Role    : Software Engineer · AI / Backend Specialist           ║
+║  Company : Rockstar Games                                        ║
+║  Location: Dubai, UAE  |  Jammu, India                           ║
+║  Blog    : https://haseeb-mir.netlify.app/                       ║
+╚═══════════════════════════════════════════════════════════════════╝
+```
+
+```
+╔═══════════════════════════════════════════════════════════════════╗
+║                    LANGUAGES & TOOLS                             ║
+╠═══════════════════════════════════════════════════════════════════╣
+║  Languages  : Python, C++, C#, JavaScript, Java, Assembly        ║
+║  AI / ML    : LangChain, CrewAI, OpenAI SDK, FAISS, RAG          ║
+║  Backend    : REST / GraphQL APIs, FastAPI, Node.js              ║
+║  Game Dev   : IGI Engine Internals, 3D Asset Pipelines           ║
+║  Databases  : SQL, NoSQL, Vector DBs (FAISS, Pinecone)           ║
+╚═══════════════════════════════════════════════════════════════════╝
+```
+
+```
+╔═══════════════════════════════════════════════════════════════════╗
+║                       WHAT I BUILD                               ║
+╠═══════════════════════════════════════════════════════════════════╣
+║  [*]  Agentic AI Systems  — autonomous, tool-using LLM agents    ║
+║  [*]  Game Engine Tools   — IGI series mod tools & asset editors ║
+║  [*]  Binary Parsers      — .olm .iff .mef .spr format research  ║
+║  [*]  Backend APIs        — scalable REST / GraphQL services     ║
+║  [*]  Dev Tooling         — CLI tools, automation, open-source   ║
+╚═══════════════════════════════════════════════════════════════════╝
+```
+
+```
+╔═══════════════════════════════════════════════════════════════════╗
+║                     CURRENT FOCUS                                ║
+╠═══════════════════════════════════════════════════════════════════╣
+║  >  Agent planning & reasoning   (ReAct, Tree-of-Thought)        ║
+║  >  Memory systems               (vector DBs, long-term)         ║
+║  >  LLM orchestration            (LangChain / custom)            ║
+║  >  Game engine architecture     (IGI 1 & 2 internals)           ║
+║  >  3D graphics                  (OBJ / FBX / GLB pipelines)     ║
+╚═══════════════════════════════════════════════════════════════════╝
+```
+
+```
+╔═══════════════════════════════════════════════════════════════════╗
+║                       TOP PROJECTS                               ║
+╠════════════════════════╦══════════════════════════════════════════╣
+║  code-interpreter      ║  AI-powered Python code execution agent ║
+║  langchain-coder       ║  LangChain-based autonomous coder       ║
+║  gemini-interpreter    ║  Gemini model interpreter & agent       ║
+║  IGI-Game-Tools        ║  Mod tools for IGI game engine          ║
+╚════════════════════════╩══════════════════════════════════════════╝
+```
+
+```
+╔═══════════════════════════════════════════════════════════════════╗
+║                       CONTACT ME                                 ║
+╠═══════════════════════════════════════════════════════════════════╣
+║  Email    : haseebmir.hm@gmail.com                               ║
+║  Twitter  : @HaseebMir91                                         ║
+║  YouTube  : youtube.com/@HaseebHeaven                            ║
+║  Website  : https://haseeb-mir.netlify.app/                      ║
+╚═══════════════════════════════════════════════════════════════════╝
+```
+
+---
+
+## GitHub Stats
+
+<img src="https://ghstats.dev/api/card?username=haseeb-heaven&border_radius=26.5" alt="GitHub Stats Card" />
+<img src="https://ghstats.dev/api/langs?username=haseeb-heaven&border_radius=9.5" alt="Top Languages" />
+
+---
+
+## Connect
+
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/HaseebMir91)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@HaseebHeaven/videos)
+[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/6219626/haseeb-mir)
+[![Blogger](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://haseeb-heaven.blogspot.com/)
+[![BuyMeCoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/haseebheaven)
+[![KoFi](https://img.shields.io/badge/KoFi-00B9FE?style=for-the-badge&logo=Ko-fi&logoColor=white)](https://ko-fi.com/heavenhm)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://haseeb-mir.netlify.app/)
+
+---
+
+```
+  "Coding is an art that can spread goodness.
+   By creating open-source software and libraries,
+   we can make a positive impact."
+                              — Haseeb Heaven
+```
