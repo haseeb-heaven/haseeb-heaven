@@ -20,167 +20,75 @@ I'm a developer focused on building **Agentic AI systems** — autonomous softwa
 - 🔗 LangChain & LLM orchestration
 - ⚙️ Tool-using AI agents
 - 🧬 Model fine-tuning & deep learning
-
-## Programming Languages
-<div class="container">
-    <div class="badges">
-        <img src="https://img.shields.io/badge/C%2B%2B-blue?style=for-the-badge&logo=c%2B%2B" alt="C++">
-        <img src="https://img.shields.io/badge/C-red?style=for-the-badge&logo=c" alt="C">
-        <img src="https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python" alt="Python">
-        <img src="https://img.shields.io/badge/Assembly-green?style=for-the-badge&logo=assembly" alt="Assembly">
-        <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript" alt="JavaScript">
-        <img src="https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5" alt="HTML">
-    </div>
-    <div class="chart">
-       <img src="https://ghstats.dev/api/langs?username=haseeb-heaven&border_radius=9.5" alt="Top Languages" />
-    </div>
-</div>
-
-## 🤖 AI / Agent Stack
-- LLM APIs (OpenAI + open-source models)
-- LangChain / custom orchestration frameworks
-- Vector Databases (FAISS, Pinecone)
-- RAG pipelines
-- Tool-calling architectures
-- Autonomous AI agents
-
-## Top Repos
-![code-interpreter](https://img.shields.io/github/stars/haseeb-heaven/code-interpreter?style=for-the-badge&logo=github&label=code-interpreter)
-![langchain-coder](https://img.shields.io/github/stars/haseeb-heaven/langchain-coder?style=for-the-badge&logo=github&label=langchain-coder)
-![gemini-interpreter](https://img.shields.io/github/stars/haseeb-heaven/gemini-interpreter?style=for-the-badge&logo=github&label=gemini-interpreter)
-
-## 🧪 GitHub Stats
-<img src="https://ghstats.dev/api/card?username=haseeb-heaven&border_radius=26.5" alt="GitHub Stats Card" />
-
-## 🧠 Agent Capabilities
-- 🧭 Task planning & decomposition  
-- 🔁 Iterative reasoning (ReAct loops)  
-- 🛠️ Tool usage (APIs, code execution)  
-- 🧠 Memory (short-term + long-term)  
-- 🤝 Multi-agent systems  
-
-## 📫 How to reach me
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/HaseebMir91)
-[![BuyMeCoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/haseebheaven)
-[![KoFi](https://img.shields.io/badge/KoFi-ffdd00?style=for-the-badge&logo=Ko-fi&logoColor=orange)](https://ko-fi.com/heavenhm)
-[![Blogger](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://haseeb-heaven.blogspot.com/)
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/6219626/haseeb-mir)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@HaseebHeaven/videos)
-[![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://haseeb-mir.vercel.app)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://haseeb-mir.netlify.app/)
-
-## ⚡ Vision
-Building systems that don't just respond — but **think, plan, and act autonomously**.
 ==========================================================
   END OF BACKUP
 ==========================================================
 -->
 
 ```
- ██╗  ██╗ █████╗ ███████╗███████╗███████╗██████╗
- ██║  ██║██╔══██╗██╔════╝██╔════╝██╔════╝██╔══██╗
- ███████║███████║███████╗█████╗  █████╗  ██████╔╝
- ██╔══██║██╔══██║╚════██║██╔══╝  ██╔══╝  ██╔══██╗
- ██║  ██║██║  ██║███████║███████╗███████╗██████╔╝
- ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚══════╝╚══════╝╚═════╝
-
- ██╗  ██╗███████╗ █████╗ ██╗   ██╗███████╗███╗   ██╗
- ██║  ██║██╔════╝██╔══██╗██║   ██║██╔════╝████╗  ██║
- ███████║█████╗  ███████║██║   ██║█████╗  ██╔██╗ ██║
- ██╔══██║██╔══╝  ██╔══██║╚██╗ ██╔╝██╔══╝  ██║╚██╗██║
- ██║  ██║███████╗██║  ██║ ╚████╔╝ ███████╗██║ ╚████║
- ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝  ╚═══╝  ╚══════╝╚═╝  ╚═══╝
+▓▓▓▓▓█▓▓▓▓▓▓▓█▓█▓▓▓▓▓█▓█▓▓▓:+.:+░▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓    haseeb-heaven
+▓█████▓███▓█▓████▓██▓▓▓███o.+:o++▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓   ──────────────────────────────────
+▓▓▓▓▓▓▓▓█▓██████████████▓▓▒:+:oo░█▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓    OS     : Windows 11 / Ubuntu / Kali
+░░▒▒▒▒▒▒▒▓▓▓▓▓▓▓██▓▓█▓▓█▓▓█▓▓▓█▓▓█▓▓▓▓▓█▓█▓█▓▓▓▓▓▓▓▓    Shell  : Python | C++ | C# | JS
+#▒▒░░▒▓▓▓▓▓▓█▓▓▓██▓▒▓▒▒▒░▒▓█▒█▓oo█▓▓▓▓▓▒▒▒░▒▒▒█▓▓▓██    Kernel : AI/ML + Backend + GameDev
+▓▒▒░#░██▓▓▓█▓░▒▓#▒▓▓██#░█▓▓▓░o░▓▓▓▓▓▓▓▓▓▓▒░o▒▒▓▒▓▓▓▓   ──────────────────────────────────
+▒▓▓░o▒+.:::+o+░▓░░+::+o█▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓█▓▓██▓▓█▓▓▓▓▓    Languages : Python, C++, C#
+█▓▓░+░+....:..##░▒▓+::o▓█▓▓▓▓▓█▓█▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▓▓█▓                JavaScript, Java, Asm
+▒▓▓o+░o::::.::o░▒o█▓▒▓▓▓█░#::o█#o█▓▓▓▓▓▓▓▓▓▓▓██▓▓▒▓▓    AI / ML   : LangChain, CrewAI
+▓▓▓░#▒o:++:+++o▒▓+o▓▓▓█▓█#o..:░#+████▓▓█▓░▒▓▓███#█▓▓                OpenAI SDK, FAISS
+█▒▓█▓█o:o░#oo##▓▒:#▓▓░#+o▒o+.:o+░█▓▓█▓█:. #▓▓█▓░░▒+:    Backend   : FastAPI, REST, GraphQL
+.++##░▒▓▓▓▓█▓▓▒▓▒.#▓▓#▓oo▓#oo+++▓█▓██▓▓+. o█▒░▒▒#o#░    Game Dev  : IGI Engine Internals
+ :.:o░#oo+:++##▒#o█▒░░#oo█▓██████████▓#. +▓▓░░█▓++#▒    Databases : SQL, NoSQL, VectorDB
+.  .+▓:   ...:.+░o▒▒░▒▒o+██████████▓▓▓. :█▓▓█░░##░+o   ──────────────────────────────────
+ ...+▒++o++::++▒▒+###▓░+░▓█▓████████▓+ +▒▓▓█▒░#oo++o    GitHub Stats
+. ..o▒+oo#▒█▓▓█▓▓█▓█▓▓▓:o▓▓▓████▓██▓+ +▓▓▓██#:::++++    ┌─────────────────────────────┐
+  ..#▒  :▒▒▓█▓▓▓▓▓▓▓▓▓▓:+█▓▓▓▓█▓▓o. .░▓▓▓░▒█▓░░##▒##    │  Followers : 147+           │
+  .:▒▓#::#▒▒▓██▒░▓▓▓▓#+:o░█▓▓▓█▓#o+:#▓▓▓░+#░▓▓▒░▒#▒█    │  Repos     : 12 public      │
+  .+▓▓▓oo#▒▓█▓▓▓▓██▓▓  .▓░:o░▒░::+o+o▒▓░:+o##░▒██▓██    │  Gists     : 29 public      │
+.  ##+█▓▓▓▓▓▓▓█▓▓▓▓▓█▒#+█o.+#▓█o+::++░░o#o+oo░█▒▒░░▒    └─────────────────────────────┘
+ ..+o▒▓▓▓▓▓▓▓▓▓▓▓▓▓▓█▓▓█░.+o░▓▓:o.:+o:.::::oo░▒oo#░░   ──────────────────────────────────
+::+▒░▒▓▓█▓▓▓█▓█▓▓████▒██▒.o#░█░ #..+o...  ...::+o#░░    Email   : haseebmir.hm@gmail.com
+▒:+▓░▓▓▓▓█▓▓▓▓▒▓▓█▓▓▓▓▒░█:#▒░█o.oo.oo............++o    Twitter : @HaseebMir91
+▓░o#▓█▓▓▓▓▓▓▓▒▓▓█▓▓█▓▓▓▓▓#░▒█▓..:▓:+#:...... .....++    YouTube : @HaseebHeaven
+▓▒░##░▓▓█▓▓▓▓▓o:▓▓▓#░░░▓▓▓▓#▓▓::.▒░#▒o. ...........:    Website : haseeb-mir.netlify.app
+#▓▓####░░▒#▓█▒░░░▓█o###▒▓oooo█▒▒#▒▓▒▓░. .........:+o   ──────────────────────────────────
 ```
-
-<div align="center">
-
-```
-        .---.
-       /     \
-      | () () |        ██╗  ██╗ █████╗ ███████╗███████╗███████╗██████╗
-       \  ^  /         ██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝██╔══██╗
-        |||||          ███████║███████║███████╗█████╗  █████╗  ██████╔╝
-        |||||          ██╔══██║██╔══██║╚════██║██╔══╝  ██╔══╝  ██╔══██╗
-                       ██║  ██║██║  ██║███████║███████╗███████╗██████╔╝
-  ╔══════════════╗     ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚══════╝╚══════╝╚═════╝
-  ║ haseeb-heaven║
-  ╚══════════════╝     OS     : Windows 11 / Ubuntu 22 / Kali
-                       Age    : 10+ yrs in software development
-                       Shell  : Python  |  C++  |  C#  |  JS
-```
-
-</div>
 
 ---
 
 ```
-╔═══════════════════════════════════════════════════════════════════╗
-║                        SYSTEM INFO                               ║
-╠═══════════════════════════════════════════════════════════════════╣
-║  Name    : Haseeb Heaven (haseeb-heaven)                         ║
-║  Role    : Software Engineer · AI / Backend Specialist           ║
-║  Company : Rockstar Games                                        ║
-║  Location: Dubai, UAE  |  Jammu, India                           ║
-║  Blog    : https://haseeb-mir.netlify.app/                       ║
-╚═══════════════════════════════════════════════════════════════════╝
+╔══════════════════════════════════════════════════════════════════╗
+║                          WHAT I BUILD                           ║
+╠══════════════════════════════════════════════════════════════════╣
+║  [*]  Agentic AI Systems  — autonomous, tool-using LLM agents   ║
+║  [*]  Game Engine Tools   — IGI series mod tools & editors      ║
+║  [*]  Binary Parsers      — .olm .iff .mef .spr file research   ║
+║  [*]  Backend APIs        — scalable REST / GraphQL services    ║
+║  [*]  Dev Tooling         — CLI tools, automation, open-source  ║
+╚══════════════════════════════════════════════════════════════════╝
 ```
 
 ```
-╔═══════════════════════════════════════════════════════════════════╗
-║                    LANGUAGES & TOOLS                             ║
-╠═══════════════════════════════════════════════════════════════════╣
-║  Languages  : Python, C++, C#, JavaScript, Java, Assembly        ║
-║  AI / ML    : LangChain, CrewAI, OpenAI SDK, FAISS, RAG          ║
-║  Backend    : REST / GraphQL APIs, FastAPI, Node.js              ║
-║  Game Dev   : IGI Engine Internals, 3D Asset Pipelines           ║
-║  Databases  : SQL, NoSQL, Vector DBs (FAISS, Pinecone)           ║
-╚═══════════════════════════════════════════════════════════════════╝
+╔══════════════════════════════════════════════════════════════════╗
+║                         CURRENT FOCUS                           ║
+╠══════════════════════════════════════════════════════════════════╣
+║  >  Agent planning & reasoning   (ReAct, Tree-of-Thought)       ║
+║  >  Memory systems               (vector DBs, long-term)        ║
+║  >  LLM orchestration            (LangChain / custom)           ║
+║  >  Game engine architecture     (IGI 1 & 2 internals)          ║
+║  >  3D graphics                  (OBJ / FBX / GLB pipelines)    ║
+╚══════════════════════════════════════════════════════════════════╝
 ```
 
 ```
-╔═══════════════════════════════════════════════════════════════════╗
-║                       WHAT I BUILD                               ║
-╠═══════════════════════════════════════════════════════════════════╣
-║  [*]  Agentic AI Systems  — autonomous, tool-using LLM agents    ║
-║  [*]  Game Engine Tools   — IGI series mod tools & asset editors ║
-║  [*]  Binary Parsers      — .olm .iff .mef .spr format research  ║
-║  [*]  Backend APIs        — scalable REST / GraphQL services     ║
-║  [*]  Dev Tooling         — CLI tools, automation, open-source   ║
-╚═══════════════════════════════════════════════════════════════════╝
-```
-
-```
-╔═══════════════════════════════════════════════════════════════════╗
-║                     CURRENT FOCUS                                ║
-╠═══════════════════════════════════════════════════════════════════╣
-║  >  Agent planning & reasoning   (ReAct, Tree-of-Thought)        ║
-║  >  Memory systems               (vector DBs, long-term)         ║
-║  >  LLM orchestration            (LangChain / custom)            ║
-║  >  Game engine architecture     (IGI 1 & 2 internals)           ║
-║  >  3D graphics                  (OBJ / FBX / GLB pipelines)     ║
-╚═══════════════════════════════════════════════════════════════════╝
-```
-
-```
-╔═══════════════════════════════════════════════════════════════════╗
-║                       TOP PROJECTS                               ║
-╠════════════════════════╦══════════════════════════════════════════╣
-║  code-interpreter      ║  AI-powered Python code execution agent ║
-║  langchain-coder       ║  LangChain-based autonomous coder       ║
-║  gemini-interpreter    ║  Gemini model interpreter & agent       ║
-║  IGI-Game-Tools        ║  Mod tools for IGI game engine          ║
-╚════════════════════════╩══════════════════════════════════════════╝
-```
-
-```
-╔═══════════════════════════════════════════════════════════════════╗
-║                       CONTACT ME                                 ║
-╠═══════════════════════════════════════════════════════════════════╣
-║  Email    : haseebmir.hm@gmail.com                               ║
-║  Twitter  : @HaseebMir91                                         ║
-║  YouTube  : youtube.com/@HaseebHeaven                            ║
-║  Website  : https://haseeb-mir.netlify.app/                      ║
-╚═══════════════════════════════════════════════════════════════════╝
+╔══════════════════════════════════════════════════════════════════╗
+║                          TOP PROJECTS                           ║
+╠═══════════════════════════╦══════════════════════════════════════╣
+║  code-interpreter         ║  AI-powered code execution agent    ║
+║  langchain-coder          ║  LangChain autonomous coder         ║
+║  gemini-interpreter       ║  Gemini model interpreter & agent   ║
+║  IGI-Game-Tools           ║  Mod tools for IGI game engine      ║
+╚═══════════════════════════╩══════════════════════════════════════╝
 ```
 
 ---
